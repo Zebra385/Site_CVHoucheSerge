@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# setting in production
+Site_CVHoucheSerge_project/settings/production.py
