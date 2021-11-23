@@ -11,7 +11,7 @@ class AccueilView(ListView):
         first_day = datetime.date(2021, 2, 24)
         today = datetime.date.today() 
         diff = first_day - today
-        self.day = 458 - diff.days
+        self.day = 550
         return self.day
 
     def get_context_data(self, **kwargs):
