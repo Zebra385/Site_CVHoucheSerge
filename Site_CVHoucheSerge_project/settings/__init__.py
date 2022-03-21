@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'db_cvhs',
         # The user must be replave by your own name
         'USER': 'zebra385',
-        'PASSWORD': 'maevateddy',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432',
     }
